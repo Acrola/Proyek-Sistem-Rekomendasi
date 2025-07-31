@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Nama Anda
+# Laporan Proyek Machine Learning - Kenny Aldebaran Roberts
 
 ## Project Overview
 Pada era digital dimana banyak sekali buku diterbitkan setiap hari, pembaca menghadapi banyak sekali pilihan buku yang membuat menemukan buku baru yang sesuai dengan keinginan mereka susah untuk dilakukan. Masalah ini dapat membuat pembaca enggan mencoba buku baru karena takut bahwa buku tersebut tidak akan cocok dengan selera mereka, menyusahkan mereka membaca literatur baru yang berkualitas, dan mengurangi penjualan buku pada toko. Proyek ini bertujuan untuk mengembangkan sistem rekomendasi buku dengan content-based filtering untuk mengatasi masalah-masalah tersebut. Dengan menganalisa fitur buku seperti penulis, genre, dan konten deskriptif dan menggunakan teknik seperti TF-IDF untuk ekstraksi fitur, sistem ini bertujuan untuk memberikan rekomendasi buku yang relevan pengguna, membantu mereka menemukan bacaan favorit mereka yang berikutnya. Pendekatan ini memanfaatkan fitur bawaan buku itu sendiri dan dapat dengan mudah digunakan dalam sistem rekomendasi hybrid yang juga menggabungkan teknik collaborative filtering.
